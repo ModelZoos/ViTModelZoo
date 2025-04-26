@@ -1,6 +1,6 @@
 # A Model Zoo of Vision Transfomers
 
-This repository contains the code and for the workshp paper "A Model Zoo of Vision Transformers" for the ICRL 2025 Workshop on Neural Network Weights as a New Data Modality. The paper can be found here: [arxiv](https://arxiv.org/abs/2504.10231). We are currently procuring storage for the dataset and will be updating this repository as soon as it is available.
+This repository contains the code for the workshp paper "A Model Zoo of Vision Transformers" for the ICLR 2025 Workshop on Neural Network Weights as a New Data Modality. The paper can be found here: [arxiv](https://arxiv.org/abs/2504.10231). We are currently procuring storage for the dataset and will be updating this repository as soon as it is available.
 
 
 ## Introduction
